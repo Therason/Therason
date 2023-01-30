@@ -3,7 +3,7 @@
 ## 🤠 About Me
 - Night owl 🦉
 - Hobby artist 🎨
-- Actually likes CSS 
+- Actually likes CSS 💞
 
 ## 💻 Some Technologies I've Worked With
 <p>
