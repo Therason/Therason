@@ -1,7 +1,9 @@
 <h1 align="center">Hey! I'm Gerritt <img src="https://media2.giphy.com/media/1wpxG15ZRRwUo94ytP/giphy.gif?cid=790b76115fad0da68c17eb66f6badb9e7c25944c8020fcd3&rid=giphy.gif&ct=s" width="30" height="30" /></h1>
 
 ## 🤠 About Me
-I am an eager developer with a love for all things front-end, especially technologies related to React! I’m always trying to learn something new, whether it’s a completely new framework or diving more in depth with a technology I am familiar with.
+- Night owl 🦉
+- Hobby artist 🎨
+- Actually likes CSS 
 
 ## 💻 Some Technologies I've Worked With
 <p>
