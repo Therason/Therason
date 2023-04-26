@@ -4,7 +4,7 @@
 - Night owl 🦉
 - Hobby artist 🎨
 - Actually likes CSS 💞
-- Ich verstehe Deutsch (mehr oder weniger 😅)
+- Ich verstehe Deutsch... mehr oder weniger 😅
 
 ## 💻 Some Technologies I've Worked With
 <p>
